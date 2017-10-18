@@ -1,0 +1,16 @@
+.banner{
+    background-image: url("http://i.imgur.com/lojmr.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height: 25em; */
+}
+.icon-nav-row{
+    background-color: rgb(238, 107, 20);
+}
+.thumbnail{
+    background-color: rgb(238, 107, 20);
+    border: 0px;
+}
+span.glyph{
+    font-size: 5em;
+}
